@@ -9,3 +9,6 @@ Website for playing with GIT. Want to get deeper in GIT and GIThub.
 * Drone
 
 > anything is possible
+
+<img src="https://avatars0.githubusercontent.com/u/4322700?s=60&v=4"/>
+
