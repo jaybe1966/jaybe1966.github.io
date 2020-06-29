@@ -1,1 +1,3 @@
-A website for my favourite character is currently being built here!
+# Welcome to jaybe1966.github.io
+
+Website for playing with GIT.
