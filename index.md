@@ -4,5 +4,5 @@ Website for playing with GIT. Want to get deeper in GIT and GIThub.
 
 ## About me
 
-* Information technology
+* Informati
 * Triathlon
